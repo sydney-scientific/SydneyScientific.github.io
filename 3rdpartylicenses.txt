@@ -10,7 +10,7 @@ License: "MIT"
 
 
 --------------------------------------------------------------------------------
-Package: @angular/flex-layout
+Package: ng-flex-layout
 License: "MIT"
 
 
